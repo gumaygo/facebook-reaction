@@ -1,0 +1,16 @@
+{
+    "name": "fb-automation",
+    "version": "1.0.0",
+    "description": "Facebook Live Reaction and Comment Automation with Multi-Account Support",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "author": "Gumay",
+    "license": "MIT",
+    "dependencies": {
+      "node-fetch": "^3.4.1"
+    }
+  }
+  
